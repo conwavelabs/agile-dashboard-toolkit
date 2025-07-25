@@ -3,7 +3,6 @@
 The Sprint Reliability Tracker provides comprehensive insights into your team's ability to deliver committed work, helping you understand trends in sprint predictability and commitment accuracy.
 
 ## What is Sprint Reliability?
-[../../pictures/Reliability Tracker.jpg]
 ### Definition
 Sprint Reliability measures how consistently your team delivers on sprint commitments by comparing story points committed at sprint start versus story points completed by sprint end.
 
